@@ -1,0 +1,5 @@
+aiohttp==3.8.1
+asyncio==3.4.3
+requests==2.27.1
+threading==0.3
+colorama==0.4.4
